@@ -1,5 +1,5 @@
 {
-  "name": "nano-intl",
+  "name": "pico-intl",
   "version": "1.0.0",
   "description": "Extremely small i18n library compatible with format-message",
   "main": "./dist/cjs/core.js",

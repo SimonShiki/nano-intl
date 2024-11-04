@@ -1,4 +1,4 @@
-# nano-intl
+# pico-intl
 
 A lightweight i18n library for JavaScript and TypeScript.
 
@@ -12,6 +12,6 @@ A lightweight i18n library for JavaScript and TypeScript.
 ## Installation
 
 ```bash
-npm install nano-intl
+npm install pico-intl
 ```
 
